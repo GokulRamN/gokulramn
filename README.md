@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👋 I'm Gokul Ram N, a passionate coder on a mission to explore and innovate in the world of technology.
+##I'm Gokul Ram N, a passionate coder on a mission to explore and innovate in the world of technology.
 
 - 🚀 Currently diving into AI and full-stack development.
 - 💻 Proficient in Python, Java, Flutter and FastAPI.
