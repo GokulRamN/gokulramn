@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+👋 I'm Gokul Ram N, a passionate coder on a mission to explore and innovate in the world of technology.
+
+- 🚀 Currently diving into AI and full-stack development.
+- 💻 Proficient in Python, Java, Flutter and FastAPI.
+- 🌐 Open-source enthusiast, always looking for exciting projects to contribute to.
+- 🤝 Let's connect, collaborate, and code together!
+
+Feel free to explore my repositories and don't hesitate to reach out! 📫
+
 <!--
 **GokulRamN/gokulramn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
